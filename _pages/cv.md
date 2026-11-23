@@ -21,9 +21,11 @@ author_profile: true
 **Computer Studies Tutor & Chess Coach**, Manguo Secondary School & KYTC
 - Delivered Web Development and Computer Studies Training
 - Installation and Maintenance of Operating Systems and Software
-- 
-- Security Analysis
+- User Support and Technical Guidance
 ## Education
-Cyber Security & Forensics,
-Zetech University,
-2027.
+1. Cyber Security & Forensics,
+   Zetech University,
+   2027.
+2. CCNA I,II & III,
+   CISCO Netacad.
+   
