@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: PaulNduta
 email: paulnduta52@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Cyber Security and Forensics Attache/Analyst | Networking and Systems Automation 
+description: Cyber Security and Forensics Attache/Analyst | Networking and Systems Automation 
 twitter_username: 
 github_username: paulnduta
 minimal_mistakes_skin: default
@@ -59,7 +58,7 @@ plugins:
 author:
   name   : "Paul Nduta"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Cyber Security and Forensics Attache/Analyst | Networking and Systems Automation"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
