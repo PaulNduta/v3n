@@ -11,12 +11,14 @@ author_profile: true
 - Helpdesk Automation
 - Support & Administration Tasks
 - Active Directory
+
 **Networking & Surveillance Tecnician**, CodeCloudLtd
 - Network Setup, Troubleshooting & Maintenance
 - Installation & Configuration of surveillance & Access Control systems
 - Support Tasks
 - Security Analysis
-  **Computer Studies Tutor & Chess Coach**, Manguo Secondary School & KYTC
+
+**Computer Studies Tutor & Chess Coach**, Manguo Secondary School & KYTC
 - Delivered Web Development and Computer Studies Training
 - Installation and Maintenance of Operating Systems and Software
 - 
